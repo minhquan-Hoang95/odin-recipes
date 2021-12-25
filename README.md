@@ -1,5 +1,5 @@
 # odin-recipes
-Today is a good day to continue
+Today is a good day to continue. 
 I want to show you guys, what skills I will have demonstrated once I have completed it.
 It's going to be all the knowledge and the understanding about Web Development such as 
 1. Install Virtualbox and use it to install Ubuntu ofr learning
